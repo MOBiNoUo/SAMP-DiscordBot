@@ -1,3 +1,4 @@
+![اسکرین شات - ScreenShot](https://raw.githubusercontent.com/MOBiNoUo/SAMP-DiscordBot/main/screenshot/SCREENSHOT.png)
 ## 1. Install Modules :
 ```nodejs
 npm i discord.js samp-query
