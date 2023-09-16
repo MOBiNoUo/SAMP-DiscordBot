@@ -3,12 +3,12 @@
 ```nodejs
 npm i discord.js samp-query
 ```
-#### 2. Init Project : ######
+## 2. Init Project : 
 ```nodejs
 npm init
 ```
-#### 3. Edit config.json ######
-#### 4. Run Bot : ######
+## 3. Edit config.json 
+## 4. Run Bot : 
 ```nodejs
 node index.js
 ```
