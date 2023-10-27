@@ -114,7 +114,7 @@ if (commandName === 'activity') {
 }
 if (commandName === 'help') {
   try {
-    await interaction.reply("Baraye Daryaft List Kamel Bazikon Ha Az `/onlineplayers` Estefadeh Konid \n\nBaraye Khamosh Va Roshan Kardan Tedad Bazikonan Online Dar Activity Bot Az `/activity` Estefadeh Konid.\n\n-1.2 Version By https://Ouomen.ir");
+    await interaction.reply("Baraye Daryaft List Kamel Bazikon Ha Az `/listplayers` Estefadeh Konid \n\nBaraye Khamosh Va Roshan Kardan Tedad Bazikonan Online Dar Activity Bot Az `/activity` Estefadeh Konid.\n\n-1.2 Version By https://Ouomen.ir");
   } catch (error) {
     await interaction.reply('Error');
   }
