@@ -9,6 +9,7 @@ npm i discord.js samp-query
 npm init
 ```
 ## 3. Edit config.json 
+Set Server IP And BOTTOKEN
 ## 4. Run Bot : 
 ```nodejs
 node index.js
